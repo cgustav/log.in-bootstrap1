@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color:#fff;
+}
+
+body {
+    background-size: cover;
+    background: url(../images/amazong.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+.form-container {
+    border: 0px solid #fff;
+    padding: 50px 60px;
+    margin-top: 63%;
+    background: rgba(48, 18, 48, 0.44);
+    -webkit-box-shadow: 36px 27px 82px -16px rgba(5, 5, 5, 1);
+    -moz-box-shadow: 36px 27px 82px -16px rgba(5, 5, 5, 1);
+    box-shadow: 36px 27px 82px -16px rgba(5, 5, 5, 1);
+}
